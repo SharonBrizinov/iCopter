@@ -4,7 +4,7 @@ The old iCopter game in its ASM version.
 
 ## Compilation & Running
 
-Compile with Turbo Assembler (for x64 machines, I highly recommend [DosBox][ln1]).
+Compiled using Turbo Assembler (for x64 machines, I highly recommend [DosBox][ln1]).
 
 ```sh
 c:\> tasm.exe copter.asm
